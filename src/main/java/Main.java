@@ -1,9 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        int eaters = 0; // сколько людей будут есть
+        int eaters = 5; // сколько людей будут есть
 
         int water = 3000; // миллилитров воды
-        int potatoes = 3; // картофелин
+        int potatoes = 5; // картофелин
         int chicken = 6; // куриных бёдер
         int spices = 10; // ложек специй
 
